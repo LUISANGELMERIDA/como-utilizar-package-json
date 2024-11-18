@@ -1,0 +1,12 @@
+{
+  "name": "como-utilizar-package-json",
+  "version": "1.0.0",
+  "description": "este proyecto ayudara a como iniciar correctamente el package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "luis angel",
+  "license": "ISC"
+}
